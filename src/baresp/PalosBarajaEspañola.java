@@ -7,7 +7,7 @@ package baresp;
 
 /**
  *
- * @author rafae
+ * @author rgion
  */
 public enum PalosBarajaEspañola {
     OROS,

@@ -11,7 +11,7 @@ import java.util.Random;
 
 /**
  *
- * @author rafae
+ * @author rgion
  */
 public class BarajaEspañola extends Baraja {
     ArrayList<CartaEsp> repartidas=new ArrayList<CartaEsp>();

@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author rafae
+ * @author rgion
  */
 public class CartaEsp extends Carta {
 

@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author rafa
+ * @author rgion
  */
 public class Escoba {
 

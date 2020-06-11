@@ -7,7 +7,7 @@ package baresp;
 
 /**
  *
- * @author rafa
+ * @author rgion
  */
 public abstract class Carta {
     private int numeroCarta;
